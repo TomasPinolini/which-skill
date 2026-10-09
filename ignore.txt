@@ -1,0 +1,4 @@
+# Skills que which-skill no mapea a propósito. Un nombre por línea (nombre de directorio).
+postmortem
+google-workspace
+lesson
